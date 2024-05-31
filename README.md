@@ -16,7 +16,8 @@ This project is part of the Associate Data Analyst in SQL track offered by DataC
 
 ## Repository content
 1. Jupyter notebook to perform the projects: students_mental_health.ipynb.
-2. Illustration for the jupyter notebook: mental_health.jpg.
+2. The students table: students.csv.
+3. Illustration for the jupyter notebook: mental_health.jpg.
 
 ## Author
 Coline Plé
